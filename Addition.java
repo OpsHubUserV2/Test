@@ -3,7 +3,7 @@ public class SumTwoNumbers {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        // Taking input
+        // Taking input from user
         System.out.print("Enter first number: ");
         int num1 = sc.nextInt();
 
